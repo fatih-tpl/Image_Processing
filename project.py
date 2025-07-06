@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Gözbebeği çapı referansı (mm cinsinden)
+# Göz referansı (mm cinsinden)
 eye_diameter_mm = 24
 
 # Resmi oku ve grayscale'e dönüştür
